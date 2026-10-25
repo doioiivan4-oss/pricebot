@@ -1,0 +1,19 @@
+{
+  "name": "pricebot-binance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.3.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@x402/next": "^0.3.0",
+    "@x402/core": "^0.3.0",
+    "@x402/evm": "^0.3.0",
+    "cheerio": "^1.0.2"
+  }
+}
