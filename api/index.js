@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 
 const MY_WALLET = '0xc76392342e2fc5af82039d85e3f7a8a1105b3bce';
